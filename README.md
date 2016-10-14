@@ -13,4 +13,4 @@ A simple encryption program in C based on a standard ROT13 cipher.
 
 -Vigenère’s cipher
 
-A slightly more complex encryption program in C based on polyaplhabetic subsitituion. 
+A slightly more complex encryption program in C based on polyalphabetic subsitituion. 
