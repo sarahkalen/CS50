@@ -1,3 +1,11 @@
+/*****************************************
+ ----How Many Coins? by Sarah Kalen----
+A short algorithmic program in C that
+calculates the fewest possible coins that
+can be used to return a variable amount 
+of change (USD). 
+ *****************************************/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
