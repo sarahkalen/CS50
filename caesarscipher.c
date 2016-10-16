@@ -1,11 +1,11 @@
-/**
+/*********************************************************
 * 
-* Caesar's Cipher by Sarah Kalen
+* ---------Caesar's Cipher by Sarah Kalen----------------
 *
 * A simple encryption program in C that works by shifting 
 * user-inputted text a user-inputted number of positions 
 * in the alphabet.
-*/
+*********************************************************/
 
 #include <stdio.h>
 #include <string.h>
