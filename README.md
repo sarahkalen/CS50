@@ -9,7 +9,7 @@ A short algorithmic program in C that calculates the fewest possible coins that 
 
 -Caesar's Cipher
 
-A simple encryption program in C by shifting user-inputted text a user-inputted number of positions in the alphabet. 
+A simple encryption program in C that works by shifting user-inputted text a user-inputted number of positions down the alphabet. 
 
 -Vigenère’s cipher
 
