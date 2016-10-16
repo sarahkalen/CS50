@@ -13,4 +13,4 @@ A simple encryption program in C that works by shifting user-inputted text a use
 
 -Vigenère’s cipher
 
-A slightly more complex encryption program in C based on polyalphabetic subsitituion. 
+A slightly more complex encryption program in C based on polyalphabetic subsititution. 
