@@ -1,3 +1,12 @@
+/*************************************
+* 
+* Vigenere's Cipher by Sarah Kalen
+*
+* An encryption program in C based on 
+* polyalphabetic subsitituion.
+*
+***************************************/
+    
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
